@@ -71,11 +71,3 @@ You can use tools like Postman or cURL to interact with the API endpoints. For e
 ```sh
 curl -X GET http://localhost:8000/api/menu/items
 ```
-
-## Contributing
-
-Contributions are welcome! Please create an issue or submit a pull request for any changes.
-
-## License
-
-This project is licensed under the MIT License.
